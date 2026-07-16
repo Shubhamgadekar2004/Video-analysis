@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+scipy
+opencv-python-headless
+librosa
+matplotlib
+sqlalchemy
+reportlab
+pydantic
+jinja2
+pandas
+soundfile
